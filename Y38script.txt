@@ -1,0 +1,5 @@
+cd "$HOME/Downloads"
+/usr/bin/python3 y38_viewer.py &
+sleep 2
+open http://127.0.0.1:8080
+wait
