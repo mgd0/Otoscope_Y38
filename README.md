@@ -14,7 +14,9 @@ It works great, at a frame rate of maybe 5-10 fps...way better than the 2 fps me
 
 Of course, you need to set your WiFi to the Otoscope's: AIR-ES-...
 
-Hmm, the .app worked the first time, but not so much on my 2nd run. But it did work when run in Automator. Hmm. I've done as much as I plan to with this...
+Hmm, the .app worked the first time, but not so much on my 2nd run. But it did work when run in Automator. Hmm. Well, I've done as much as I plan to with this...
+
+(Oh, I see, if it won't run a 2nd time, quit the original script using the spinning gear icon in the Mac's title bar.)
 
 Michael Dunn
 
